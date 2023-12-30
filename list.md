@@ -27,10 +27,16 @@ Q. 이 띵작을 왜 끝까지 안 봤냐??
 
 ## TVA
 ### [5등분의 신부 ◇△](https://namu.wiki/w/5등분의%20신부/애니메이션)
-> **`genre`** 학원, 러브코미디, 하렘
+||<img src="https://i.namu.wiki/i/1LJsT757a8zonfhoG_VFlfEEyw6KK-IW8ODVCFlmNaNyWHEQxsYCLBer5_F9nldIwtdftUtVwXcXnz7pifrl58eyCeZ6VSXj11VW64ucak3_C6OirxlauVpHbojMiFopVDhddPWAsxvfG-Qwt-tJhXaKZCc0uJOHb6Fjxp7prSc.webp" width="200px">|
+|---|---|
+|장르|학원, 러브코미디, 하렘|
+|리뷰||
 
 ### [가브릴 드롭아웃 ◆](https://namu.wiki/w/가브릴%20드롭아웃/애니메이션)
-> **`genre`** 판타지, 일상, 코미디, 드라마
+||<img src="https://i.namu.wiki/i/1LJsT757a8zonfhoG_VFlQwdd3Je5L_GXrIRJJdnClCeI9eVSznaiFRgBMHG1JIBRg0v1PIFIRJoJNoypLLUCVI2h2zrYUGif9ldfbEjRYaC84dtK4cR-fYvSduNCcMSZhmCrc5rN5WiTGsC6vHvziqdaPawHqAmct3Yph-7JhY.webp" width="200px">|
+|---|---|
+|장르|일상, 코미디, 드라마|
+|리뷰||
 
 ### [거미입니다만, 문제라도? ◆](https://namu.wiki/w/거미입니다만,%20문제라도%3F/애니메이션)
 > **`genre`** 이세계, 판타지
