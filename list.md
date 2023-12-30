@@ -229,8 +229,12 @@ Q. 이 띵작을 왜 끝까지 안 봤냐??
 ### [암살교실 ◆▲](https://namu.wiki/w/암살교실/애니메이션)
 > **`genre`** 학원, SF, 액션, 성장
 
-### [야마다 군과 Lv999의 사랑을 하다 ◇▲](https://namu.wiki/w/야마다%20군과%20Lv999의%20사랑을%20하다/애니메이션)
-> **`genre`** 로맨스, 순정
+### [야마다 군과 Lv999의 사랑을 하다](https://namu.wiki/w/야마다%20군과%20Lv999의%20사랑을%20하다/애니메이션)
+||<img src="https://i.namu.wiki/i/1LJsT757a8zonfhoG_VFlUM6iOSQiIshWWjX9SLYQJ0J-By-ARLUd4bqmFx7TxCO-qO1snbIjPtg4YzH4s-2JowQb35f0X7hW_Ruj5NM4dabiXw-CXGEpS_cfgghXSJqGAmeElIcKIEINKvhA2y0qLsfVwkzDu3s9hHLe3IIThw.webp" width="200px">|
+|---|---|
+|장르|로맨스, 순정|
+|Ep|13화|
+|정보|◆▲|
 
 ### [어쨌든 귀여워 ◇](https://namu.wiki/w/어쨌든%20귀여워/애니메이션)
 > **`genre`** 일상, 러브코미디
@@ -291,6 +295,13 @@ Q. 이 띵작을 왜 끝까지 안 봤냐??
 
 ### [이세계 미소녀 수육 아저씨와 ◆□1](https://namu.wiki/w/이세계%20미소녀%20수육%20아저씨와)
 > **`genre`** 이세계 전이, 개그, TS
+
+### [이종족 리뷰어스](https://namu.wiki/w/이종족%20리뷰어스/애니메이션)
+|||
+|---|---|
+|장르|판타지|
+|Ep|12화|
+|정보|◆|
 
 ### [이토 준지 매니악 ◆□2■3](https://namu.wiki/w/이토%20준지%20매니악)
 > **`genre`** 호러
