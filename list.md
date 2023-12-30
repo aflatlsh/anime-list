@@ -59,11 +59,14 @@ Q. 이 띵작을 왜 끝까지 안 봤냐??
 |---|---|
 |장르|일상, 성장, 코미디|
 |Ep|1기(12화) + OVA(2화) + 2기(12화)|
-|정보|◇(찍먹)|
+|정보|◇(1기)|
 
-
-### [겁쟁이 페달 ◇](https://namu.wiki/w/겁쟁이%20페달/애니메이션)
-> **`genre`** 스포츠, 로드바이크
+### [겁쟁이 페달](https://namu.wiki/w/겁쟁이%20페달/애니메이션)
+||<img src="https://i.namu.wiki/i/1LJsT757a8zonfhoG_VFlSpm1TW4CXZKueQ5hYim_OBfTAEpHuibAcNHQqM-5u6zsRGDMUmeAz4ePaGwGIAacnW0rlJskfUne9_OgBHKQqbuuGH19nEXe333LN9iI_JmyLEvixELnjlJ3pcY3BW6djsRertURMchVOwtT1DUc3s.webp" width="200px">|
+|---|---|
+|장르|스포츠, 로드바이크|
+|Ep|1기(38) + 2기(24화) + 3기(25화) + 4기(25화) + 5기(25화)|
+|정보|◇(1기)|
 
 ### [곰 곰 곰 베어 ◇](https://namu.wiki/w/곰%20곰%20곰%20베어/애니메이션)
 > **`genre`** 이세계전이, 판타지
