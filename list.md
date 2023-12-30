@@ -26,28 +26,41 @@ Q. 이 띵작을 왜 끝까지 안 봤냐??
 <br/>A. 보다가 심취해서 시험 망할까봐
 
 ## TVA
-### [5등분의 신부 ◇△](https://namu.wiki/w/5등분의%20신부/애니메이션)
+### [5등분의 신부](https://namu.wiki/w/5등분의%20신부/애니메이션)
 ||<img src="https://i.namu.wiki/i/1LJsT757a8zonfhoG_VFlfEEyw6KK-IW8ODVCFlmNaNyWHEQxsYCLBer5_F9nldIwtdftUtVwXcXnz7pifrl58eyCeZ6VSXj11VW64ucak3_C6OirxlauVpHbojMiFopVDhddPWAsxvfG-Qwt-tJhXaKZCc0uJOHb6Fjxp7prSc.webp" width="200px">|
 |---|---|
 |장르|학원, 러브코미디, 하렘|
 |Ep||
-|리뷰||
+|정보|◇(찍먹) △|
 
-### [가브릴 드롭아웃 ◆](https://namu.wiki/w/가브릴%20드롭아웃/애니메이션)
+### [가브릴 드롭아웃](https://namu.wiki/w/가브릴%20드롭아웃/애니메이션)
 ||<img src="https://i.namu.wiki/i/1LJsT757a8zonfhoG_VFlQwdd3Je5L_GXrIRJJdnClCeI9eVSznaiFRgBMHG1JIBRg0v1PIFIRJoJNoypLLUCVI2h2zrYUGif9ldfbEjRYaC84dtK4cR-fYvSduNCcMSZhmCrc5rN5WiTGsC6vHvziqdaPawHqAmct3Yph-7JhY.webp" width="200px">|
 |---|---|
 |장르|판타지, 일상, 코미디, 드라마|
-|Ep||
-|리뷰||
+|Ep|12화 + OVA(2화)|
+|정보|◆|
 
-### [거미입니다만, 문제라도? ◆](https://namu.wiki/w/거미입니다만,%20문제라도%3F/애니메이션)
-> **`genre`** 이세계, 판타지
+### [거미입니다만, 문제라도?](https://namu.wiki/w/거미입니다만,%20문제라도%3F/애니메이션)
+||<img src="https://i.namu.wiki/i/1LJsT757a8zonfhoG_VFlW7l4R9ZwxlMWPc0kNahY2RnNglfQCpCBRPPlmS6LqTdI5l4FaXAj2ctJZqSxrpvvTJIbBlL7LTbaShyPghnl5lNb-3IXJFJgHxlde92KitWy1XUBlut16Q5wg2OZuFPNAMuwJ0t3U-ynEJyos9amDw.webp" width="200px">|
+|---|---|
+|장르|이세계, 판타지|
+|Ep|24화|
+|정보|◆|
 
-### [거친 계절의 소녀들이여 ◇](https://namu.wiki/w/거친%20계절의%20소녀들이여/애니메이션)
-> **`genre`** 학원, 청춘, 성장, 로맨스, 군상극
+### [거친 계절의 소녀들이여](https://namu.wiki/w/거친%20계절의%20소녀들이여/애니메이션)
+||<img src="https://i.namu.wiki/i/1LJsT757a8zonfhoG_VFlfEDUpMnDn85crdrV1iM2KaGX8zxD-K-r1APj8NPTemMILyoZyEAgCRTb3ngqIVRkp5QGgYeAqyLJqpyVKcoD0_AI2YL29UBgBSlXiHkqgNXHQiItanxZlT4bCEfpOLpA_BP051JNiNuPFjhBLpOs5A.webp" width="200px">|
+|---|---|
+|장르|학원, 청춘, 성장, 로맨스, 군상극|
+|Ep|12화|
+|정보|◇(찍먹)|
 
-### [건어물 여동생! 우마루짱 ◇](https://namu.wiki/w/건어물%20여동생!%20우마루짱/애니메이션)
-> **`genre`** 일상, 성장, 코미디
+### [건어물 여동생! 우마루짱](https://namu.wiki/w/건어물%20여동생!%20우마루짱/애니메이션)
+||<img src="https://i.namu.wiki/i/1LJsT757a8zonfhoG_VFlaP8O-yKSTDmrvlcf7I4JSR4W6VNzJ-9B2bigRYa4OTT6PDBnvv6SbMu_miwDNZMdXdBbTiS9DBhB5kz-JClA-BNmSZhGUybeITak5AOnVAtlQ7Pa9S4QElKU0nLrOFmgMc3xKtlaIWTMMAgyAiUo-Y.webp" width="200px">|
+|---|---|
+|장르|일상, 성장, 코미디|
+|Ep|1기(12화) + OVA(2화) + 2기(12화)|
+|정보|◇(찍먹)|
+
 
 ### [겁쟁이 페달 ◇](https://namu.wiki/w/겁쟁이%20페달/애니메이션)
 > **`genre`** 스포츠, 로드바이크
