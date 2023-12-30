@@ -36,7 +36,7 @@ Q. 이 띵작을 왜 끝까지 안 봤냐??
 ### [가브릴 드롭아웃 ◆](https://namu.wiki/w/가브릴%20드롭아웃/애니메이션)
 ||<img src="https://i.namu.wiki/i/1LJsT757a8zonfhoG_VFlQwdd3Je5L_GXrIRJJdnClCeI9eVSznaiFRgBMHG1JIBRg0v1PIFIRJoJNoypLLUCVI2h2zrYUGif9ldfbEjRYaC84dtK4cR-fYvSduNCcMSZhmCrc5rN5WiTGsC6vHvziqdaPawHqAmct3Yph-7JhY.webp" width="200px">|
 |---|---|
-|장르|일상, 코미디, 드라마|
+|장르|판타지, 일상, 코미디, 드라마|
 |Ep||
 |리뷰||
 
